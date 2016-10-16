@@ -1,0 +1,6 @@
+[package]
+name = "rplayer"
+version = "0.1.0"
+authors = ["Bianca Rosa <me@biancarosa.com.br>"]
+
+[dependencies]
